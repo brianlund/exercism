@@ -1,0 +1,2 @@
+//newhours := myclock.Hours + int(math.Floor(float64(minutes/60)))
+	//newminutes := myclock.Minutes + minutes%60
